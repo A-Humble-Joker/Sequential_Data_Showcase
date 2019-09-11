@@ -5,6 +5,6 @@
 #### Partial Autocorrelation
 ![Image of Setup](Classic/Autoregressive Model/pacf.png)
 ####
-![Image of Setup](Classic/Data/Classic/Autoregressive Model/model.png.png)
+![Image of Setup](Classic/Autoregressive Model/model.png)
 #### Wide-Sense Sationary?
 ## Machine Learning Based Model
