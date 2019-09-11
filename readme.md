@@ -3,6 +3,7 @@
 ### Autoregressive Model
 #### Autocorrelation
 #### Partial Autocorrelation
-![Image of Setup](Classic/Data/Figure_1.png)
+![pacf](Classic/Autoregressive Model/pacf.png)
+![Autoregressive Model](Classic/Data/Classic/Autoregressive Model/model.png.png)
 #### Wide-Sense Sationary?
 ## Machine Learning Based Model
