@@ -1,4 +1,7 @@
 # Sequential Data Analysis
+Traditional Fourier analysis has been applied for decades due to their simplicity and usefulness in analyzing the cyclic behavior of the signal. Extending wavelet transform to coup with non-stationary signals. Dictionary based analysis gives up analytical format of bases, allowing for freedom. Machine learning gains much attention of community as it could handle non-linear, complex function. 
+
+On the other hand, random walk model has been developed for year to understand highly stochastic nature of some signal, including the notable stock market.  
 ## Classical Model
 ### Autoregressive Model
 #### Autocorrelation
