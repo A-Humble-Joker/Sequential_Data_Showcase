@@ -11,3 +11,5 @@ On the other hand, random walk model has been developed for year to understand h
 ![Image of Setup](Classic/Autoregressive_Model/model.png)
 #### Wide-Sense Sationary?
 ## Machine Learning Based Model
+### Simple RNN
+![Image of Setup](Deep_Learning_Based/Simple RNN/Growth Prediction.png)
