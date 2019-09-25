@@ -14,5 +14,7 @@ On the other hand, random walk model has been developed for year to understand h
 ### Simple RNN
 #### Previous Quarter Data
 ![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data.png)
+#### Method 2
+![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data_2.png)
 #### Another Data Set - Sales by Country
 ![Image of Setup](Deep_Learning_Based/Simple_RNN/Growth_Prediction.png)
