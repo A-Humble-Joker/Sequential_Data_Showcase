@@ -19,7 +19,7 @@ Good at short-term fluctuation, yet a little off the general trend
 Better at Trend, less adaptive to local features
 ![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data_2.png)
 #### Method 3
-Combine Trend Analysis and monthly cycles, yet off a little for some part
+Combine Trend Analysis and monthly cycles, yet off a little for some part  
 Mean Absolute Error: 0.0058
 ![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data_3.png)
 #### Another Data Set - Sales by Country
