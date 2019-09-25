@@ -13,8 +13,10 @@ On the other hand, random walk model has been developed for year to understand h
 ## Machine Learning Based Model
 ### Simple RNN
 #### Previous Quarter Data
+Good at short-term fluctuation, yet a little off the general trend
 ![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data.png)
 #### Method 2
+Better at Trend, less adaptive to local features
 ![](Deep_Learning_Based/Simple_RNN/beer_sales_quarter_data_2.png)
 #### Another Data Set - Sales by Country
 ![Image of Setup](Deep_Learning_Based/Simple_RNN/Growth_Prediction.png)
